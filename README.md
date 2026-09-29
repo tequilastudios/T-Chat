@@ -1,7 +1,7 @@
 <p align="center"><img src="t-chat-business-en.jpg" alt="T-Chat — Local AI for businesses, institutions and infrastructure" width="900"></p>
 
 <h2 align="center">Your organisation’s AI. Within your perimeter.</h2>
-<p align="center">Local and hybrid AI for businesses, institutions and dedicated infrastructure projects.<br>Built in Italy by HalloCorp.</p>
+<p align="center">Local and hybrid AI for businesses, institutions and dedicated infrastructure projects.<br>Created and developed in Italy by <strong>Tommaso Carlotti</strong>, owner of T-Chat. Licensed to HalloCorp.</p>
 <p align="center"><a href="https://www.mytichat.com/en/">Explore T-Chat</a> · <a href="https://www.mytichat.com/en/#contact">Request a demo</a> · <a href="#italiano">Italiano</a></p>
 
 ## From company knowledge to real work
@@ -47,6 +47,8 @@ Bring a workflow, authorised sample documents and your intended hardware. A usef
 
 ### L’AI della tua organizzazione. Nel tuo perimetro.
 
+**T-Chat è ideato, sviluppato e di proprietà di Tommaso Carlotti. È concesso in licenza ad HalloCorp; la titolarità resta a Tommaso Carlotti.**
+
 T-Chat riunisce conversazioni, documenti, modelli, agenti e automazioni in un unico ambiente operativo. È pensato per aziende e istituzioni che vogliono scegliere dove vengono elaborate le informazioni e come lavorano gli agenti.
 
 - **Second Brain:** fonti selezionate, file Markdown, riferimenti e contesto aggiornato anche nelle chat esistenti. Le aggiunte proposte dall’AI richiedono conferma.
@@ -61,4 +63,14 @@ La versione attuale è la **4.6.5 per Mac Apple Silicon**. L’uso offline richi
 
 ---
 
-T-Chat is commercial software developed by HalloCorp. **This repository is an information-only product showcase. It contains no application source code, installers, model weights or software downloads.** For product access and licensing, contact the T-Chat team.
+## Ownership and licensing / Titolarità e licenza
+
+**Tommaso Carlotti is the creator, developer and rights holder of T-Chat. The software is licensed to HalloCorp; ownership remains with Tommaso Carlotti.** Commercial use requires a separate commercial licence.
+
+**Tommaso Carlotti è l’ideatore, lo sviluppatore e il titolare dei diritti di T-Chat. Il software è concesso in licenza ad HalloCorp; la titolarità resta a Tommaso Carlotti.** L’uso commerciale richiede una licenza commerciale separata.
+
+This repository is an information-only product showcase. It contains no application source code, installers, model weights or software downloads. For product access and licensing, contact the T-Chat team.
+
+Questo repository è una vetrina esclusivamente informativa. Non contiene il codice sorgente dell’applicazione, installer, pesi dei modelli o download del software. Per l’accesso al prodotto e le licenze, contatta il team T-Chat.
+
+© 2025–2026 Tommaso Carlotti. All rights reserved. Tutti i diritti riservati.
