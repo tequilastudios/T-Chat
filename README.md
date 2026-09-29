@@ -1,6 +1,6 @@
-<p align="center"><img src="https://www.mytichat.com/assets/loghi-icone/banner%20logo.png" alt="T-Chat" width="680"></p>
+<p align="center"><img src="t-chat-business-en.jpg" alt="T-Chat — Local AI for businesses, institutions and infrastructure" width="900"></p>
 
-<h1 align="center">Your organisation’s AI. Within your perimeter.</h1>
+<h2 align="center">Your organisation’s AI. Within your perimeter.</h2>
 <p align="center">Local and hybrid AI for businesses, institutions and dedicated infrastructure projects.<br>Built in Italy by HalloCorp.</p>
 <p align="center"><a href="https://www.mytichat.com/en/">Explore T-Chat</a> · <a href="https://www.mytichat.com/en/#contact">Request a demo</a> · <a href="#italiano">Italiano</a></p>
 
